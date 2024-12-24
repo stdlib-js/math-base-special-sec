@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-24)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 -   [`ed4c8d6`](https://github.com/stdlib-js/stdlib/commit/ed4c8d65a020d119c4baa1eb6716751c75cf8a07) - **feat:** add support for secant functionality `math/base/special/sec` [(#3027)](https://github.com/stdlib-js/stdlib/pull/3027) _(by Abhijit Raut, Athan Reines, Philipp Burckhardt)_
 
 </details>
