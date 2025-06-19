@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-17)
+## Unreleased (2025-06-19)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#225](https://github.com/stdlib-js/stdlib/issues/225)
+[#225](https://github.com/stdlib-js/stdlib/issues/225), [#7403](https://github.com/stdlib-js/stdlib/issues/7403)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`355789c`](https://github.com/stdlib-js/stdlib/commit/355789c9868f2010f0045fdd76ce75e89a36fe68) - **chore:** fix EditorConfig lint errors [(#7407)](https://github.com/stdlib-js/stdlib/pull/7407) _(by Lokesh Ranjan)_
 -   [`5de9a51`](https://github.com/stdlib-js/stdlib/commit/5de9a51616a5fc34daaf5997682e75f5a6d8d60c) - **docs:** fix function description _(by Karan Anand)_
 -   [`df1110f`](https://github.com/stdlib-js/stdlib/commit/df1110fd63db25a7adf9f78416bf0377742622e4) - **docs:** replace manual `for` loop in examples [(#6640)](https://github.com/stdlib-js/stdlib/pull/6640) _(by Harsh)_
 -   [`864fc4f`](https://github.com/stdlib-js/stdlib/commit/864fc4ffe65a2f6455f92ac10947d9921e23c355) - **test:** add tests for IEEE 754-2019 compliance [(#6620)](https://github.com/stdlib-js/stdlib/pull/6620) _(by Karan Anand, stdlib-bot)_
@@ -53,12 +54,13 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Abhijit Raut
 -   Athan Reines
 -   Harsh
 -   Karan Anand
+-   Lokesh Ranjan
 -   Philipp Burckhardt
 
 </section>
