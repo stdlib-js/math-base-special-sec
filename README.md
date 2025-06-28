@@ -67,7 +67,7 @@ To view installation and usage instructions specific to each branch build, be su
 var sec = require( '@stdlib/math-base-special-sec' );
 ```
 
-## sec( x )
+#### sec( x )
 
 Evaluates the [secant][trigonometric-functions] of `x` (in radians).
 

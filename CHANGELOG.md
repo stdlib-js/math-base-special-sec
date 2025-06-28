@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-19)
+## Unreleased (2025-06-28)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`580a43f`](https://github.com/stdlib-js/stdlib/commit/580a43fb5dcd86b4e2647cc0b9bdae271e889301) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`355789c`](https://github.com/stdlib-js/stdlib/commit/355789c9868f2010f0045fdd76ce75e89a36fe68) - **chore:** fix EditorConfig lint errors [(#7407)](https://github.com/stdlib-js/stdlib/pull/7407) _(by Lokesh Ranjan)_
 -   [`5de9a51`](https://github.com/stdlib-js/stdlib/commit/5de9a51616a5fc34daaf5997682e75f5a6d8d60c) - **docs:** fix function description _(by Karan Anand)_
 -   [`df1110f`](https://github.com/stdlib-js/stdlib/commit/df1110fd63db25a7adf9f78416bf0377742622e4) - **docs:** replace manual `for` loop in examples [(#6640)](https://github.com/stdlib-js/stdlib/pull/6640) _(by Harsh)_
