@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-30)
+## Unreleased (2025-09-28)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-A total of 2 issues were closed in this release:
+A total of 3 issues were closed in this release:
 
-[#225](https://github.com/stdlib-js/stdlib/issues/225), [#7403](https://github.com/stdlib-js/stdlib/issues/7403)
+[#225](https://github.com/stdlib-js/stdlib/issues/225), [#7403](https://github.com/stdlib-js/stdlib/issues/7403), [#8120](https://github.com/stdlib-js/stdlib/issues/8120)
 
 </section>
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`f3c3dd2`](https://github.com/stdlib-js/stdlib/commit/f3c3dd25a02d59021b78c5b3641af79c3b1ee1e3) - **chore:** fix EditorConfig lint errors [(#8152)](https://github.com/stdlib-js/stdlib/pull/8152) _(by Payal Goswami)_
 -   [`cdd433b`](https://github.com/stdlib-js/stdlib/commit/cdd433bc46eb762ed93311b69bc69af9f92bb220) - **chore:** add structured package data for `math/base/special/sec` [(#7986)](https://github.com/stdlib-js/stdlib/pull/7986) _(by Lokesh Ranjan, Athan Reines)_
 -   [`580a43f`](https://github.com/stdlib-js/stdlib/commit/580a43fb5dcd86b4e2647cc0b9bdae271e889301) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`355789c`](https://github.com/stdlib-js/stdlib/commit/355789c9868f2010f0045fdd76ce75e89a36fe68) - **chore:** fix EditorConfig lint errors [(#7407)](https://github.com/stdlib-js/stdlib/pull/7407) _(by Lokesh Ranjan)_
@@ -56,13 +57,14 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 6 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
 -   Abhijit Raut
 -   Athan Reines
 -   Harsh
 -   Karan Anand
 -   Lokesh Ranjan
+-   Payal Goswami
 -   Philipp Burckhardt
 
 </section>
