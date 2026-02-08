@@ -46,7 +46,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sec from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sec@esm/index.mjs';
+import sec from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sec@v0.1.1-esm/index.mjs';
 ```
 
 #### sec( x )
@@ -89,7 +89,7 @@ v = sec( NaN );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
 import TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-two-pi@esm/index.mjs';
-import sec from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sec@esm/index.mjs';
+import sec from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sec@v0.1.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
