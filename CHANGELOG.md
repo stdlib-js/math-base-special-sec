@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-23)
+## Unreleased (2026-02-24)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#10377](https://github.com/stdlib-js/stdlib/issues/10377)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`1ca4102`](https://github.com/stdlib-js/stdlib/commit/1ca410285a07bc2fe47b66732c4c24bfadd50771) - **chore:** fix EditorConfig lint errors [(#10406)](https://github.com/stdlib-js/stdlib/pull/10406) _(by Kamal Singh Rautela)_
 -   [`6979901`](https://github.com/stdlib-js/stdlib/commit/697990190ede7a6b807372e724546eb9470aa81b) - **bench:** refactor to use string interpolation in `math/base/special/sec` [(#10359)](https://github.com/stdlib-js/stdlib/pull/10359) _(by AyushiJain18270)_
 
 </details>
@@ -24,9 +37,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   AyushiJain18270
+-   Kamal Singh Rautela
 
 </section>
 
