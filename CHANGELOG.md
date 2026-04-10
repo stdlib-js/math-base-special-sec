@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-31)
+## Unreleased (2026-04-10)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`35566af`](https://github.com/stdlib-js/stdlib/commit/35566af0add64775e60422fd16e50e1bec3947e7) - **docs:** fix C examples in READMEs [(#11229)](https://github.com/stdlib-js/stdlib/pull/11229) _(by anee3, Athan Reines)_
 -   [`40a80f6`](https://github.com/stdlib-js/stdlib/commit/40a80f62a767edfc5d664d617f44a4b8cb335cdd) - **docs:** add missing section closing comments in `math/base/special` READMEs _(by Philipp Burckhardt)_
 -   [`1ca4102`](https://github.com/stdlib-js/stdlib/commit/1ca410285a07bc2fe47b66732c4c24bfadd50771) - **chore:** fix EditorConfig lint errors [(#10406)](https://github.com/stdlib-js/stdlib/pull/10406) _(by Kamal Singh Rautela)_
 -   [`6979901`](https://github.com/stdlib-js/stdlib/commit/697990190ede7a6b807372e724546eb9470aa81b) - **bench:** refactor to use string interpolation in `math/base/special/sec` [(#10359)](https://github.com/stdlib-js/stdlib/pull/10359) _(by AyushiJain18270)_
@@ -38,11 +39,13 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   AyushiJain18270
 -   Kamal Singh Rautela
 -   Philipp Burckhardt
+-   anee3
 
 </section>
 
