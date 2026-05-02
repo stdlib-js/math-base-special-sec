@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-10)
+## Unreleased (2026-05-02)
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#10377](https://github.com/stdlib-js/stdlib/issues/10377)
+[#10377](https://github.com/stdlib-js/stdlib/issues/10377), [#11883](https://github.com/stdlib-js/stdlib/issues/11883)
 
 </section>
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`87038a4`](https://github.com/stdlib-js/stdlib/commit/87038a414428ad7c24c2682c43de840793854280) - **chore:** fix EditorConfig lint errors [(#11889)](https://github.com/stdlib-js/stdlib/pull/11889) _(by alok chando)_
 -   [`35566af`](https://github.com/stdlib-js/stdlib/commit/35566af0add64775e60422fd16e50e1bec3947e7) - **docs:** fix C examples in READMEs [(#11229)](https://github.com/stdlib-js/stdlib/pull/11229) _(by anee3, Athan Reines)_
 -   [`40a80f6`](https://github.com/stdlib-js/stdlib/commit/40a80f62a767edfc5d664d617f44a4b8cb335cdd) - **docs:** add missing section closing comments in `math/base/special` READMEs _(by Philipp Burckhardt)_
 -   [`1ca4102`](https://github.com/stdlib-js/stdlib/commit/1ca410285a07bc2fe47b66732c4c24bfadd50771) - **chore:** fix EditorConfig lint errors [(#10406)](https://github.com/stdlib-js/stdlib/pull/10406) _(by Kamal Singh Rautela)_
@@ -39,12 +40,13 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   AyushiJain18270
 -   Kamal Singh Rautela
 -   Philipp Burckhardt
+-   alok chando
 -   anee3
 
 </section>
