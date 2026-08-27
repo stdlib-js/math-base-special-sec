@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-02)
+## Unreleased (2026-08-27)
 
 <section class="issues">
 
@@ -24,6 +24,8 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`1ad5851`](https://github.com/stdlib-js/stdlib/commit/1ad585103d22754bf57382ef241e5f71edcbb12e) - **docs:** add equations [(#14683)](https://github.com/stdlib-js/stdlib/pull/14683) _(by Karan Anand)_
+-   [`4f852f8`](https://github.com/stdlib-js/stdlib/commit/4f852f8713ed0afe3f8e46ba9421d5d78b8135d0) - **test:** migrate `math/base/special/sec` to ULP-based testing [(#13876)](https://github.com/stdlib-js/stdlib/pull/13876) _(by Ujjwal Verma)_
 -   [`c2b92b4`](https://github.com/stdlib-js/stdlib/commit/c2b92b4e7c4840bb859808dc0dacd97833019549) - **chore:** propagate fixes to sibling packages [(#11892)](https://github.com/stdlib-js/stdlib/pull/11892) _(by Philipp Burckhardt)_
 -   [`87038a4`](https://github.com/stdlib-js/stdlib/commit/87038a414428ad7c24c2682c43de840793854280) - **chore:** fix EditorConfig lint errors [(#11889)](https://github.com/stdlib-js/stdlib/pull/11889) _(by alok chando)_
 -   [`35566af`](https://github.com/stdlib-js/stdlib/commit/35566af0add64775e60422fd16e50e1bec3947e7) - **docs:** fix C examples in READMEs [(#11229)](https://github.com/stdlib-js/stdlib/pull/11229) _(by anee3, Athan Reines)_
@@ -41,12 +43,14 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 6 people contributed to this release. Thank you to the following contributors:
+A total of 8 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   AyushiJain18270
 -   Kamal Singh Rautela
+-   Karan Anand
 -   Philipp Burckhardt
+-   Ujjwal Verma
 -   alok chando
 -   anee3
 
